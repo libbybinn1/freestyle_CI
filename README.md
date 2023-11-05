@@ -11,7 +11,7 @@ The app depends on a mongodb database.
 
 Your Goal Is:
 
-1. Dockerize the app
+1. Dockerize the app !!
 2. Add a docker compose and making sure the app is working with the database.
 3. Fix "It worked on my machine" problems.
 4. The App should run on "Development" environment. 
